@@ -19,7 +19,7 @@ Core i5
 
 Acompanha Apple KeyBoard e Mouse Logitech
 
-#### Valor R$5.500,00
+#### Valor R$ 5.500,00
 
 -----
 
@@ -41,31 +41,31 @@ Mouse Razer Krait 4G 2013 - 6400dpi
 
 Mousepad Véspula - Control + Speed
 
-#### Valor R$2.500,00
+#### Valor R$ 2.500,00
 -----
 Monitor LG 23" 23MP55 Led IPS
-#### Valor R$300,00
+#### Valor R$ 300,00
 -----
 Monitor LG 25" 25UM58 Led IPS UltraWide
-#### Valor R$450,00
+#### Valor R$ 450,00
 -----
 Monitor Dell P2317H 23" Full HD LED
-#### Valor R$400,00
+#### Valor R$ 400,00
 -----
 Smart TV 40" Samsung 40KU6000 Ultra HD 4K HDR
-#### Valor R$1.650,00
+#### Valor R$ 1.650,00
 -----
 Teclado Coolermaster Masterkeys Pro S - Mecânico - Switch Cherry MX Brown
-#### Valor R$500,00
+#### Valor R$ 500,00
 -----
 Mouse Logitech G502 Proteus (Comprado no Black Friday 2017)
-#### Valor R$200,00
+#### Valor R$ 200,00
 -----
 Caixa de som JBL Charge 3 Vermelha
-#### Valor R$450,00
+#### Valor R$ 450,00
 -----
 Caixa de som Sony GTK-XB5 - 200RMS - Led (Comprado no Black Friday 2017)
-#### Valor R$550,00
+#### Valor R$ 550,00
 
 
 [filipekiss]: https://github.com/filipekiss
