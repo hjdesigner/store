@@ -1,5 +1,5 @@
 # Gripp store
-Somente um lugar pra eu listar as cossitas que vou vender, tanta gente usa o github pra tantas e tantas outrass coisas, pq eu não usaria ele pra colocar a lista de coisinhas que vou vender, não é mesmo? (como o [Filipe Kiss](https://github.com/filipekiss) diz: "Você se pergunta pq, eu me perguunto pq não?")
+Somente um lugar pra eu listar as cossitas que vou vender, tanta gente usa o github pra tantas e tantas outrass coisas, pq eu não usaria ele pra colocar a lista de coisinhas que vou vender, não é mesmo? (como o @[filipekiss] diz: "Você se pergunta pq, eu me perguunto pq não?")
 
 Segue a lista então (aos poucos vou acrescentando mais itens, vou colocar somente o que eu for lembrando e também o que eu olhar, e der vontade de vender:
 
@@ -18,11 +18,11 @@ Core i5
 Acompanha Apple KeyBoard e Mouse Logitech
 
 #### Valor R$5.500,00
-  
+
 -----
-  
+
 CPU
-  
+
 Processador Amd Fx 8320E Octa Core, Black Edition, Cache 16MB, 3.2GHz AM3
 
 16Gb RAM DDR3 1667
@@ -58,4 +58,6 @@ Teclado Coolermaster Masterkeys Pro S - Mecânico - Switch Cherry MX Brown
 -----
 Mouse Logitech G502 Proteus
 #### Valor R$200,00
-  
+
+
+[filipekiss]: https://github.com/filipekiss
