@@ -1,5 +1,5 @@
 # Gripp store
-Somente um lugar pra eu listar as cossitas que vou vender, tanta gente usa o github pra tantas e tantas outrass coisas, pq eu não usaria ele pra colocar a lista de coisinhas que vou vender, não é mesmo? (como o @Filipe Kiss diz: "Você se pergunta pq, eu me perguunto pq não?")
+Somente um lugar pra eu listar as cossitas que vou vender, tanta gente usa o github pra tantas e tantas outrass coisas, pq eu não usaria ele pra colocar a lista de coisinhas que vou vender, não é mesmo? (como o [Filipe Kiss](https://github.com/filipekiss) diz: "Você se pergunta pq, eu me perguunto pq não?")
 
 Segue a lista então (aos poucos vou acrescentando mais itens, vou colocar somente o que eu for lembrando e também o que eu olhar, e der vontade de vender:
 
