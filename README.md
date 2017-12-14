@@ -4,6 +4,7 @@ Somente um lugar pra eu listar as cossitas que vou vender, tanta gente usa o git
 Segue a lista então (aos poucos vou acrescentando mais itens, vou colocar somente o que eu for lembrando e também o que eu olhar, e der vontade de vender:
 
 Contatos e mais informações (e aquele pedidozinho de desconto se vc quiser, pelo email **grippado@gmail.com**, e avisa que viu aqui pelo github, e se eu não te conhecer, me fala como você chegou até aqui =))
+
 -----
 
 [Apple iMac 2011](https://everymac.com/systems/apple/imac/specs/imac-core-i5-3.1-27-inch-aluminum-mid-2011-thunderbolt-specs.html)
