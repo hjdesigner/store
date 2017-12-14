@@ -64,7 +64,7 @@ Mouse Logitech G502 Proteus (Comprado no Black Friday 2017)
 Caixa de som JBL Charge 3 Vermelha
 #### Valor R$450,00
 -----
-Caixa de som Sony GTK-XB5 - 200RM - Led (Comprado no Black Friday 2017)
+Caixa de som Sony GTK-XB5 - 200RMS - Led (Comprado no Black Friday 2017)
 #### Valor R$550,00
 
 
